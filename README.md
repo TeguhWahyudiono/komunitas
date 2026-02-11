@@ -6,7 +6,7 @@ Nah buat kalian yang lagi belajar pemrograman atau sudah menjadi seorang program
 
 ## Ini repo apa sih?
 
-[![Cara Berkontribusi Ke Proyek Open Source (Sumber Terbuka) di GitHub](https://i.ytimg.com/vi/V2A07tTjVnY/hqdefault.jpg)](https://youtu.be/V2A07tTjVnY "Cara Berkontribusi Ke Proyek Open Source (Sumber Terbuka) di GitHub")
+[![Cara Berkontribusi Ke Proyek Open Source (Sumber Terbuka) di GitHub](https://i.ytimg.com/vi/V2A07tTjVnY/hqdefault.jpg)](https://youtu.be/V2A07tTjVnY 'Cara Berkontribusi Ke Proyek Open Source (Sumber Terbuka) di GitHub')
 
 Oh iya, buat yang belum tau tonton dulu ya video ini [Cara Berkontribusi Ke Proyek Open Source (Sumber Terbuka) di GitHub](https://youtu.be/V2A07tTjVnY). Jadi repo ini mengajak semuanya untuk mulai berkontribusi ke proyek-proyek open source atau sumber terbuka. Bisa berkontribusi ke proyek lain yang sudah ada, atau bisa jadikan repo ini sebagai ajang kenalan dan latihan kita berkontribusi di Github.
 
@@ -504,6 +504,7 @@ Salam kenal, saya **Daffa Harizal Fitri** seorang **Frontend Engineer Enthusiast
 Alhamdulillah Saat ini dipercaya untuk menjadi Web Developer Intern pada **Unit Digitaliz** by **Hasnur Center**.
 
 Saat ini sedang tertaik mempelajari :
+
 - React.js & Next.js
 - Vue.js
 - Laravel
@@ -518,7 +519,7 @@ My Github : [https://github.com/daffaharizal](https://github.com/daffaharizal)
 
 Salam kenal semua, saya Marzuki dan tinggal di Jakarta Timur. Saat ini sedang menekuni membuat static website menggunakan Jekyll. Alasan saya belajar karena ingin menjadi digital marketer menggunakan Github. Saya memiliki rencana untuk membuat aplikasi travel suatu saat nanti.
 
-Terima kasih kepada **Mas Eka Putra** untuk video tutorial dan motivasinya, serta memberikan kesempatan untuk belajar menjadi kontributor pada ***project open source***, tetap semangat untuk berkarya dan semoga sukses selalu untuk kedepannya.
+Terima kasih kepada **Mas Eka Putra** untuk video tutorial dan motivasinya, serta memberikan kesempatan untuk belajar menjadi kontributor pada **_project open source_**, tetap semangat untuk berkarya dan semoga sukses selalu untuk kedepannya.
 
 [https://github.com/utaramas](https://github.com/utaramas)
 
@@ -527,7 +528,6 @@ Terima kasih kepada **Mas Eka Putra** untuk video tutorial dan motivasinya, sert
 ### Fathir
 
 Halo, nama saya **Fathir**. Saya seorang **Backend Engineer Enthusiast** yang senang bekerja dengan teknologi dan mempelajari hal-hal baru di bidang IT. Saat ini, saya sedang fokus belajar tentang beberapa bahasa pemograman seperti **Javascript**, **PHP**, dan juga **Ruby** untuk meningkatkan kemampuan dan pengalaman saya sebagai seorang developer. Saya selalu tertarik untuk belajar dan terus mengembangkan diri agar dapat memberikan solusi yang terbaik dan efektif untuk setiap proyek yang saya kerjakan.
-
 
 Github :[https://github.com/FatngatirBilek](https://github.com/FatngatirBilek)<br/>
 My Web :[https://FatngatirBilek.eu.org](https://FatngatirBilek.eu.org)<br/>
@@ -541,9 +541,10 @@ Hallo, Perkenalkan nama Saya **Arif Siddik Muharam**, seorang **Full Stack Web D
 Kegiatan saat ini yaitu bekerja dan berkuliah. Saat ini Saya build web menggunakan CodeIgniter, ReactJS, MySQL, dan Saya juga sedang mempelajari Laravel serta React Native. <br/>
 Selain memiliki Web Portfolio, Saya memiliki web **[www.riplabs.id](https://riplabs.id)** dan **[www.cvmilenial.com](https://cvmilenial.com)** yang bisa teman-teman kunjungi dan gunakan.
 
-Kegiatan Saya saat ini sedang: 
-- Bekerja 
-- Berkuliah 
+Kegiatan Saya saat ini sedang:
+
+- Bekerja
+- Berkuliah
 - Mempelajari React JS, React Native, Laravel, NextJS
 - Memperbarui WebApp second brain bernama RipLabs, **[www.riplabs.id](https://riplabs.id)**
 - Memperbarui Web Pembuatan CV Online, **[www.cvmilenial.com](https://cvmilenial.com)**
@@ -561,19 +562,29 @@ Salam kenal semua, saya bisa dipanggil **Ken**, saya ingin menjadi **UI/UX Devel
 Saya sangat sengan untuk belajar mengenai hal baru dan terus mengimprove diri sendiri agar dapat memberikan kontribusi kepada dunia ini<br/>
 saya sekarang ingin memperdalam **Vue** dan **HTML,CSS,JS** serta **React**
 
-Github: [https://github.com/MoriMomo](https://github.com/MoriMomo) 
+Github: [https://github.com/MoriMomo](https://github.com/MoriMomo)
 
 <hr/>
-
 
 ### Munajat
 
 Salam kenal semua, saya bisa dipanggil **Mun**, saya ingin menjadi **Web Developer** dan **Full Stack Web Developer** saya berasa dari Indramayu, Jawa Barat <br/>
 setelah terjun di bidang ini semakin merasa bodoh, masih banyak hal yang saya harus pelajari dengan komitment dan disiplin diri semoga bisa menjadi web developer yang handal<br/>
-saya lagi asik bermain menggunakan **React** dan suka ngoprek linux khususnya turunan ubuntu yaitu lubuntu dan xubuntu, setelah 1 tahun menggunaan linux udah males menggunakan windows, jika setup proyek  di linux mempunyai tantangan sendiri ketimbang setup menggunakan windows. 
+saya lagi asik bermain menggunakan **React** dan suka ngoprek linux khususnya turunan ubuntu yaitu lubuntu dan xubuntu, setelah 1 tahun menggunaan linux udah males menggunakan windows, jika setup proyek di linux mempunyai tantangan sendiri ketimbang setup menggunakan windows.
 
 untuk diskusi mengenai linux dan web developer bisa hubungi saya menggunakan linkedin link tertera dibawah.
 LinkedIn: [Munajat](https://www.linkedin.com/in/bymunajat/) <br/>
-Github: [https://github.com/bymunajat](https://github.com/bymunajat) 
+Github: [https://github.com/bymunajat](https://github.com/bymunajat)
 
 <hr/>
+
+### Teguh Wahyudiono
+
+Saya adalah seorang Maintenance Engineer dengan pengalaman lebih dari 13 tahun di bidang Operational Technology (OT). Pekerjaan saya berfokus pada sistem kelistrikan dan otomasi industri di lingkungan manufaktur dan smelter. Saya memiliki kemampuan yang kuat dalam sistem kontrol, termasuk Mitsubishi PLC, HollySys DCS, dan instrumentasi 4–20 mA. Saya juga memiliki pengalaman dalam commissioning, troubleshooting, peningkatan reliability, dan preventive maintenance. <br/>
+
+Pada Juli 2025, saya lulus dengan gelar Sarjana Informatika (S.Kom). Studi saya berfokus pada Information Technology (IT), khususnya Software Engineering dengan fokus pada pengembangan web. Untuk tugas akhir, saya mengembangkan aplikasi daily maintenance check untuk mendukung kegiatan inspeksi dan perbaikan secara digital. <br/>
+
+Saya tertarik untuk menggabungkan OT dan IT guna mendukung transformasi digital industri. Tujuan saya adalah menggunakan software dan sistem data untuk meningkatkan monitoring, kinerja maintenance, dan efisiensi operasional di lingkungan industri. <br/>
+
+Github: [https://github.com/TeguhWahyudiono](https://github.com/teguhwahyudiono) <br/>
+LinkedIn: [Teguh Wahyudiono](https://www.linkedin.com/in/teguh-w-993078239) <br/>
